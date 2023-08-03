@@ -1,1 +1,1 @@
-# odin-thousand-sunny
+# The Thousand Sunny

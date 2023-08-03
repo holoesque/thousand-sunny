@@ -10,3 +10,4 @@ If you want to see the original project from the Odin Project to see what the ge
 template given looks like, I created it here:
 
 https://github.com/landennguyen/odin-landing-page
+

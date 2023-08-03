@@ -9,4 +9,4 @@ from the anime One Piece.
 If you want to see the original project from the Odin Project to see what the general
 template given looks like, I created it here:
 
-https://github.com/landennguyen/odin-landing-page
+https://github.com/holoesque/odin-landing-page

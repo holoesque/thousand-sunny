@@ -28,7 +28,6 @@ obtained from https://motionbgs.com. The specific links are as follows:
 
 * thousand-sunny-one-piece.mp4: https://motionbgs.com/thousand-sunny-one-piece
 * sun-god-luffy.mp4: https://motionbgs.com/sun-god-luffy
-* luffys-mighty-gear-5.mp4: https://motionbgs.com/luffys-mighty-gear 
 
 If anyone knows if there are actual authors that created these mp4's please let me
 know so I can give credit where it is due although I am pretty sure these are free
@@ -41,3 +40,4 @@ and all were taken by the user vinsky2002. The images are linked as follows:
 * chopper.jpg: https://pixabay.com/photos/toy-cute-figurine-japanese-anime-3676083/
 * zoro.jpg: https://pixabay.com/photos/male-man-toy-figurine-adult-3715098/
 * sanji.jpg: https://pixabay.com/photos/male-adult-man-toy-figurine-3731782/
+* ai-generated-luffy.jpg: https://pixabay.com/illustrations/ai-generated-luffy-pirate-one-piece-8149814/

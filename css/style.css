@@ -91,7 +91,7 @@ a {
 
 .crew {
   background-color: rgba(180, 105, 1, 1);
-  margin: 15rem 0;
+  margin: 15rem 0 0 0;
   padding: 3rem 15rem;
   display: flex;
   flex-direction: column;
@@ -126,4 +126,39 @@ a {
 .crew__name {
   font-size: 1.3em;
   font-weight: bold;
+}
+
+.quote {
+  margin: 0;
+  padding: 10rem 35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/ai-generated-luffy.jpg");
+  background-size: cover;
+  object-fit: cover;
+  background-attachment: fixed;
+}
+
+.quote__content {
+  font-size: 2em;
+  color: white;
+  text-shadow: 0.1em 0.1em 1em white;
+}
+
+.quote__author {
+  font-size: 2em;
+  align-self: flex-end;
+  color: white;
+  text-shadow: 0.1em 0.1em 1em white;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgba(20, 20, 20, 0.9);
+  color: white;
+  padding: 0.6rem 1rem;
+  font-size: 1.1em;
+  text-shadow: 0.1em 0.1em 1em white;
 }

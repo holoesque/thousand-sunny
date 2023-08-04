@@ -10,3 +10,7 @@ If you want to see the original project from the Odin Project to see what the ge
 template given looks like, I created it here:
 
 https://github.com/holoesque/odin-landing-page
+
+NOTE: None of the images or videos used in this project are mine. I will link 
+their references in the near future as I forgot to note down their location when 
+I found them.

@@ -34,7 +34,8 @@ know so I can give credit where it is due although I am pretty sure these are fr
 from the home page of https://motionbgs.com.
 
 Furthermore, the images used for the crew were obtained from https://pixabay.com
-and all were taken by the user vinsky2002. The images are linked as follows:
+and the first four were taken by the user vinsky2002 while the last was posted by
+CHIDORI_999. The images are linked as follows:
 
 * nami.jpg: https://pixabay.com/photos/girl-young-cute-anime-character-3653213/
 * chopper.jpg: https://pixabay.com/photos/toy-cute-figurine-japanese-anime-3676083/

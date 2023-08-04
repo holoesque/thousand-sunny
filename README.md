@@ -14,9 +14,9 @@ https://github.com/holoesque/odin-landing-page
 NOTE: None of the images or videos used in this project are mine. All videos were
 obtained from https://motionbgs.com. The specific links are as follows:
 
-thousand-sunny-one-piece.mp4: https://motionbgs.com/thousand-sunny-one-piece
-sun-god-luffy.mp4: https://motionbgs.com/sun-god-luffy
-luffys-mighty-gear-5.mp4: https://motionbgs.com/luffys-mighty-gear 
+* thousand-sunny-one-piece.mp4: https://motionbgs.com/thousand-sunny-one-piece
+* sun-god-luffy.mp4: https://motionbgs.com/sun-god-luffy
+* luffys-mighty-gear-5.mp4: https://motionbgs.com/luffys-mighty-gear 
 
 If anyone knows if there are actual authors that created these mp4's please let me
 know so I can give credit where it is due.

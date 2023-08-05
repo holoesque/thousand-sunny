@@ -52,19 +52,20 @@ a {
 
 .hero {
   background-color: rgba(40, 40, 40, 0.85);
-  margin: 10rem 20rem;
+  margin: 10rem 15rem;
   padding: 3rem;
   border-radius: 1em;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 3em;
+  gap: 5em;
   flex: 1;
 }
 
 .hero__introduction {
   text-align: center;
   display: flex;
+  padding: 3rem;
   flex-direction: column;
   gap: 2em;
 }
@@ -86,9 +87,11 @@ a {
 }
 
 .hero__video {
-  width: 40em;
-  height: auto;
+  max-width: 35em;
+  max-height: auto;
   border-radius: 1em;
+  display: flex;
+  flex: 1;
 }
 
 .crew {
@@ -106,15 +109,25 @@ a {
   font-size: 2em;
   font-weight: bold;
   text-shadow: 0.1em 0.1em 1em black;
+  text-align: center;
 }
 
 .crew__members {
   display: flex;
   gap: 10rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.crew_member {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .crew__image {
-  width: 15em;
+  width: 12em;
   height: auto;
   border-radius: 1em;
   border: 0.2em solid black;
@@ -126,6 +139,7 @@ a {
 }
 
 .crew__name {
+  text-align: center;
   font-size: 1.3em;
   font-weight: bold;
 }
@@ -181,7 +195,7 @@ a {
 
 .quote-cta__button {
   align-self: center;
-  width: 10rem;
+  width: 12rem;
   height: 2rem;
   border: 0.2rem solid black;
   border-radius: 1em;
@@ -195,4 +209,107 @@ a {
   padding: 0.6rem 1rem;
   font-size: 1.1em;
   text-shadow: 0.1em 0.1em 1em white;
+}
+
+@media (max-width: 400px) {
+  .header {
+    padding: 0.3rem 0.8rem;
+    font-size: .7em;
+  }
+  
+  .mid-header__logo {
+    width: 1.2em;
+  }
+  
+  .right-header__links {
+    gap: 0.8em;
+  }
+  
+  .hero {
+    margin: 1rem 1.5rem;
+    padding: 1rem;
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  
+  .hero__introduction {
+    padding: 0rem;
+    flex-direction: column;
+    gap: 0.8em;
+  }
+  
+  .hero__heading {
+    font-size: 1.5em;
+  }
+  
+  .hero__body {
+    font-size: 1.1em;
+  }
+  
+  .hero__video {
+    max-width: 13em;
+    padding-top: 0.5em;
+  }
+  
+  .crew {
+    margin: 1rem 0 0 0;
+    padding: 1rem 1.5rem;
+    gap: 1em;
+  }
+  
+  .crew__heading {
+    font-size: 1.5em;
+  }
+  
+  .crew__members {
+    gap: 1rem;
+  }
+  
+  .crew__name {
+    font-size: 1em;
+  }
+  
+  .quote-cta {
+    padding: 1rem 3rem;
+  }
+  
+  .quote-cta__content {
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  .quote-cta__author {
+    font-size: 1em;
+    text-align: center;
+    align-self: flex-end;
+  }
+  
+  .quote-cta__cta {
+    margin: 1rem;
+    padding: 1rem;
+    gap: 1.5rem;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .quote-cta__heading {
+    font-size: 1.2em;
+  }
+  
+  .quote-cta__body {
+    font-size: 1em;
+  }
+  
+  .quote-cta__button {
+    align-self: center;
+    width: 12rem;
+    height: 2rem;
+    border: 0.2rem solid black;
+    border-radius: 1em;
+    box-shadow: 0.1em 0.1em 1em white;
+  }
+  
+  .footer {
+    font-size: 0.8em;
+  }
 }

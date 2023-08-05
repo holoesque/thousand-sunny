@@ -211,7 +211,7 @@ a {
   text-shadow: 0.1em 0.1em 1em white;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .header {
     padding: 0.3rem 0.8rem;
     font-size: .7em;
